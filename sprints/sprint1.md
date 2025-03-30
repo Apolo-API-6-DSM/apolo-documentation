@@ -66,20 +66,27 @@ O foco principal desta primeira sprint foi a realização de um MVP, onde o clie
 
 Atualmente, o projeto está assim:
 <p align="center">
-  <img src="" alt="GIF do projeto em funcionamento">
+  <img src="../assets/sprint1/sprint1-proj.gif" alt="GIF do projeto em funcionamento">
 </p>
+
+<p align="center">
+    <img src="../assets/sprint1/pre_processamento_terminal.png" alt="Terminal do pré processamento">
+    <img src="../assets/sprint1/ia_terminal.png" alt="Terminal da IA">
+</p>
+
 
 
 ### 📸 Base de dados do dataset
 
 <p align="center">
-  <img src="" alt="Banco de dados">
+    <img src="../assets/sprint1/banco_de_dados.png" alt="Banco de dados postgreSQL">
+    <img src="../assets/sprint1/mongodb.png" alt="Banco de dados MongoDB">
 </p>
 
 ### 📸 Teste no postman, devolvendo emoção e tipo de chamado
 
 <p align="center">
-  <img src="" alt="Teste postman">
+  <img src="../assets/sprint1/postman.jpg" alt="Teste postman">
 </p>
 
 ---
@@ -100,9 +107,9 @@ Atualmente, o projeto está assim:
 </div>
 <h2 id="burndown">📉 Burndown</h2>
 
-    Este é o burndown da equipe atualizado.:
+    Este é o burndown da equipe atualizado, na primeira sprint:
 <p align="center">
-  <img src="" alt="Burndown gráfico da Sprint 1">
+  <img src="../assets/sprint1/burndown.png" alt="Burndown gráfico da Sprint 1">
 </p>
 
 → [Voltar ao topo](#topo)

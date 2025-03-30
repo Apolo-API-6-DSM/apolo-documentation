@@ -1,10 +1,6 @@
 # apolo-documentation
 
-<h1 id="topo" align="center"> <img src="./image.png"> Apolo ![alt text](image-1.png)</h1>
-
-<!-- <div align="center">
-  <img src="./assets/bannerProjetogit.png" height="280px" alt="Banner do Projeto">
-</div> -->
+<h1 id="topo" align="center"> <img src="./logo.png"> Apolo <img src="./logo.png"> </h1>
 
 <br>
 
@@ -72,9 +68,9 @@ Além disso, o sistema foi projetado para ser escalável, seguro e em conformida
 
 | Sprint | Requisito | Status |
 |:------:|:----------|:------:|
-| 1 | Importação e pré-processamento dos dados das interações atendente-cliente |  |
-| 1 | Classificação de cada uma das chamados (Reclamação, Dúvida, Solicitação de suporte, Reincidência) |  |
-| 1 | Análise de sentimento de cada um dos chamados (Satisfeito, Insatisfeito, Neutro) |  |
+| 1 | Importação e pré-processamento dos dados das interações atendente-cliente | ✔️ |  |
+| 1 | Classificação de cada uma das chamados (Reclamação, Dúvida, Solicitação de suporte, Reincidência) | ✔️ |  |
+| 1 | Análise de sentimento de cada um dos chamados (Satisfeito, Insatisfeito, Neutro) | ✔️ |  |
 | 2 | Sumarização de cada uma das chamadas (Destacar principais pontos da conversa) |  |
 | 2 | Insights diários (estatísticas gerais sobre atendimentos) |  |
 | 2 | Busca semântica (pesquisar interações com palavras naturais) |  |
@@ -84,6 +80,8 @@ Além disso, o sistema foi projetado para ser escalável, seguro e em conformida
 | 3 | Solução escalável (uso de serviços de nuvem) |  |
 
 </div>
+
+<span id="timeline">
 
 ## 📝 Timeline das Sprints
 
@@ -149,10 +147,10 @@ Além disso, o sistema foi projetado para ser escalável, seguro e em conformida
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Bruno Denardo |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/brunodenardo)             |
+| Product Owner | Bruno Denardo |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-denardo/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/brunodenardo)             |
 | Scrum Master  | Igor Da Silva Pereira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-da-silva-pereira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/igorpereira28)             |
-|   Dev Team    | Gabriela da Silva Barbosa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieladsbarbosa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabidsbarbosa) |
-|   Dev Team    | José Victor Henninger Lopes De Souza | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/HenningerJv) |
+|   Dev Team    | Gabriela da Silva Barbosa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieladsbarbosa/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabidsbarbosa) |
+|   Dev Team    | José Victor Henninger Lopes De Souza | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-victor-henninger-7661b928a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/HenningerJv) |
 |   Dev Team    | Vitor Garcez de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgarcezdeoliveira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitaog) |
 
 
