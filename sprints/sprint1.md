@@ -91,11 +91,9 @@ Atualmente, o projeto está assim:
   
 | Sprint | Requisito | Status |
 |:------:|:----------:|:------:|
-| 1      | Serviço backend responsável pelo repasse das imagens analisadas | ✔️ |
-| 1      | Aplicação frontend web com mapas interativos e função de busca de área de interesse | ✔️ |
-| 1      | Serviço de IA responsável por analisar e gerar máscaras de cobertura | ✔️ |
-| 1      | Funções de busca devem permitir intervalo de tempo desejado | ✔️ |
-| 1      | Implementação do serviço de IA na nuvem | ✔️ |
+| 1      | Importação e pré-processamento dos dados das interações atendente-cliente | ✔️ |
+| 1      | Classificação de tipo de chamado | ✔️ |
+| 1      | Análise de sentimento de cada um dos chamados | ✔️ |
 
 ---
 
