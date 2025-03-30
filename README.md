@@ -95,7 +95,7 @@ Além disso, o sistema foi projetado para ser escalável, seguro e em conformida
 ---
 
 ### Para visualização das user stories do projeto:
-→ [Ver Epics e UserStories]()
+→ [Ver Epics e UserStories](https://github.com/Apolo-API-6-DSM/apolo-documentation/blob/main/docs/backlog.md)
 
 → [Voltar ao topo](#topo)
 
