@@ -34,6 +34,7 @@ O foco principal desta primeira sprint foi a realização de um MVP, onde o clie
   - Substituição de nomes → `<NOME>`
   - Ocultação de e-mails → `<EMAIL>`
   - Mascaramento de telefones → `<TELEFONE>`
+  - Substituição de CPFs → `<CPF>`
 - **Técnicas**:
   - Expressões regulares (Regex)
   - Modelos de reconhecimento de entidades
@@ -41,10 +42,11 @@ O foco principal desta primeira sprint foi a realização de um MVP, onde o clie
 ### 4. Modelagem de IA
 - **Classificação automática**:
   - Tipos de chamados (reclamação, dúvida, solicitação)
-  - Modelo: BERTimbau (fine-tuned)
+  - Modelo: Regressão Linear do Sklearn
+
 - **Análise de sentimentos**:
   - Polaridade (positivo, neutro, negativo)
-  - Modelo: SpaCy + léxicos PT-BR
+  - Modelo: Regressão Linear do Sklearn
 
 ### 5. Visualização de Dados
 #### Telas Implementadas:
