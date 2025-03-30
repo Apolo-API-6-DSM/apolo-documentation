@@ -1,0 +1,12 @@
+[submodule "apolo-backend"]
+	path = apolo-backend
+	url = https://github.com/Apolo-API-6-DSM/apolo-backend
+[submodule "apolo-frontend"]
+	path = apolo-frontend
+	url = https://github.com/Apolo-API-6-DSM/apolo-frontend
+[submodule "apolo-IA"]
+	path = apolo-IA
+	url = https://github.com/Apolo-API-6-DSM/apolo-IA
+[submodule "apolo-pre_processamento"]
+	path = apolo-pre_processamento
+	url = https://github.com/Apolo-API-6-DSM/apolo-pre_processamento
