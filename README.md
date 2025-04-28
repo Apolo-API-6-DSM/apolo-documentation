@@ -53,7 +53,7 @@ Além disso, o sistema foi projetado para ser escalável, seguro e em conformida
 | Sprint | Previsão | Status | Relatório da Sprint |
 |:--:|:----------:|:------------:|:-------------:|
 | 01 | 30/03/2025 | ✔️ Concluída | [Relatório](https://github.com/Apolo-API-6-DSM/apolo-documentation/blob/main/sprints/sprint1.md) |
-| 02 | 27/04/2025 | 🔒 Pendente |  |
+| 02 | 27/04/2025 | ✔️ Concluída | [Relatório](https://github.com/Apolo-API-6-DSM/apolo-documentation/blob/main/sprints/sprint2.md) |
 | 03 | 25/05/2025 | 🔒 Pendente |  |
 
 → [Voltar ao topo](#topo)
@@ -71,12 +71,12 @@ Além disso, o sistema foi projetado para ser escalável, seguro e em conformida
 | 1 | Importação e pré-processamento dos dados das interações atendente-cliente | ✔️ |  |
 | 1 | Classificação de cada uma das chamados (Reclamação, Dúvida, Solicitação de suporte, Reincidência) | ✔️ |  |
 | 1 | Análise de sentimento de cada um dos chamados (Satisfeito, Insatisfeito, Neutro) | ✔️ |  |
-| 2 | Sumarização de cada uma das chamadas (Destacar principais pontos da conversa) |  |
-| 2 | Insights diários (estatísticas gerais sobre atendimentos) |  |
-| 2 | Busca semântica (pesquisar interações com palavras naturais) |  |
+| 1 | Remoção de dados pessoais das interações (LGPD) | ✔️ |
+| 2 | Sumarização de cada uma das chamadas (Destacar principais pontos da conversa) | ✔️ |
+| 2 | Insights diários (estatísticas gerais sobre atendimentos) | ✔️ |
+| 3 | Busca semântica (pesquisar interações com palavras naturais) |  |
 | 3 | Cadastro e gerenciamento de usuários (com LGPD) |  |
 | 3 | Níveis de acesso (Viwer e Admin) |  |
-| 3 | Remoção de dados pessoais das interações (LGPD) |  |
 | 3 | Solução escalável (uso de serviços de nuvem) |  |
 
 </div>
