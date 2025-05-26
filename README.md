@@ -46,15 +46,13 @@ Além disso, o sistema foi projetado para ser escalável, seguro e em conformida
 
 **Separamos o projeto em SPRINTS e para uma análise mais detalhada, sobre o que fizemos em cada uma, você consegue acessando o link abaixo**
 
-**Por enquanto estamos com a 1 sprint finalizada, lá descrevemos o que fizemos, têm nosso burndown, vídeo de funcionamento, entre outros.**
-
 *Clique em relatório e veja nossa evolução!*
 
 | Sprint | Previsão | Status | Relatório da Sprint |
 |:--:|:----------:|:------------:|:-------------:|
 | 01 | 30/03/2025 | ✔️ Concluída | [Relatório](https://github.com/Apolo-API-6-DSM/apolo-documentation/blob/main/sprints/sprint1.md) |
 | 02 | 27/04/2025 | ✔️ Concluída | [Relatório](https://github.com/Apolo-API-6-DSM/apolo-documentation/blob/main/sprints/sprint2.md) |
-| 03 | 25/05/2025 | 🔒 Pendente |  |
+| 03 | 25/05/2025 | ✔️ Concluída | [Relatório](https://github.com/Apolo-API-6-DSM/apolo-documentation/blob/main/sprints/sprint3.md)  |
 
 → [Voltar ao topo](#topo)
 
@@ -74,10 +72,10 @@ Além disso, o sistema foi projetado para ser escalável, seguro e em conformida
 | 1 | Remoção de dados pessoais das interações (LGPD) | ✔️ |
 | 2 | Sumarização de cada uma das chamadas (Destacar principais pontos da conversa) | ✔️ |
 | 2 | Insights diários (estatísticas gerais sobre atendimentos) | ✔️ |
-| 3 | Busca semântica (pesquisar interações com palavras naturais) |  |
-| 3 | Cadastro e gerenciamento de usuários (com LGPD) |  |
-| 3 | Níveis de acesso (Viwer e Admin) |  |
-| 3 | Solução escalável (uso de serviços de nuvem) |  |
+| 3 | Busca semântica (pesquisar interações com palavras naturais) | ✔️ |
+| 3 | Cadastro e gerenciamento de usuários (com LGPD) | ✔️ |
+| 3 | Níveis de acesso (Viwer e Admin) | ✔️ |
+| 3 | Solução escalável (uso de serviços de nuvem) | ✔️ |
 
 </div>
 
@@ -107,6 +105,7 @@ Além disso, o sistema foi projetado para ser escalável, seguro e em conformida
 - → [Serviço Frontend](https://github.com/Apolo-API-6-DSM/apolo-frontend)
 - → [Serviço de IA](https://github.com/Apolo-API-6-DSM/apolo-IA)
 - → [Microsserviço de tratamento dos datasets](https://github.com/Apolo-API-6-DSM/apolo-pre_processamento)
+- → [Busca Semântica](https://github.com/Apolo-API-6-DSM/apolo-busca-semantica)
 
 → [Voltar ao topo](#topo)
 
@@ -147,8 +146,8 @@ Além disso, o sistema foi projetado para ser escalável, seguro e em conformida
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Bruno Denardo |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-denardo/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/brunodenardo)             |
-| Scrum Master  | Igor Da Silva Pereira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-da-silva-pereira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/igorpereira28)             |
+| Scrum Master  | Igor Da Silva Pereira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-da-silva-pereira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/igorpereira28)
+| Product Owner | Bruno Denardo |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-denardo/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/brunodenardo)             |            |
 |   Dev Team    | Gabriela da Silva Barbosa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieladsbarbosa/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabidsbarbosa) |
 |   Dev Team    | José Victor Henninger Lopes De Souza | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-victor-henninger-7661b928a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/HenningerJv) |
 |   Dev Team    | Vitor Garcez de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgarcezdeoliveira/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Vitaog) |

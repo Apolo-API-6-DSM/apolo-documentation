@@ -10,3 +10,6 @@
 [submodule "apolo-pre_processamento"]
 	path = apolo-pre_processamento
 	url = https://github.com/Apolo-API-6-DSM/apolo-pre_processamento
+[submodule "apolo-busca_semantica"]
+	path = apolo-busca_semantica
+	url = https://github.com/Apolo-API-6-DSM/apolo-busca-semantica
